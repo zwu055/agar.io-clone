@@ -128,3 +128,4 @@ docker run -it -p 3000:3000 agarioclone_agar
 >You can check out the full license [here](https://github.com/huytd/agar.io-clone/blob/master/LICENSE).
 
 This project is licensed under the terms of the **MIT** license.
+[![Run on Repl.it](https://repl.it/badge/github/huytd/agar.io-clone)](https://repl.it/github/huytd/agar.io-clone)
